@@ -1,0 +1,48 @@
+body {
+	text-align: center;
+	position: center;
+}
+
+button {
+	margin: 5px;
+}
+
+#done, #start {
+	font-size: 24px;
+}
+
+button#done {
+	margin: 21px;
+}
+
+#start-button {
+	padding-bottom: 30px;
+}
+
+#game, .start-screen {
+	background: #f8f8ff;
+	margin-left: 15%;
+	margin-right: 15%;
+}
+
+p {
+	margin-top: 3px;
+	font-family: 'Inconsolata', monospace;
+}
+
+.question {
+	padding-top: 25px;
+	padding-bottom: 30px;
+}
+
+#title-section {
+	padding-top: 30px;
+}
+
+h1, h2 {
+	font-family: 'Press Start 2P', cursive;
+}
+
+html {
+	background-image: url(../images/gaming-pattern.PNG);
+}
